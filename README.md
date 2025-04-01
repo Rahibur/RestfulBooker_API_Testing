@@ -30,17 +30,17 @@ features and is loaded with a bunch of bugs for you to explore.
 2 GET - Retrieve All Bookings
 ![Image](https://github.com/user-attachments/assets/3d7789bc-e2aa-406d-bdcc-dcf12d7c9dc0)
 3 POST - Create a Booking
-
+![Image](https://github.com/user-attachments/assets/fec59957-bfc7-4fed-a0fa-aeab89b41ba5)
 4 GET - Retrieve a Single Booking
-
+![Image](https://github.com/user-attachments/assets/7eacf746-46c4-4541-a948-d9bee8d4c902)
 5 PUT - Update an Existing Booking
-
+![Image](https://github.com/user-attachments/assets/43863409-e54e-4a87-86bb-c97997f0d2c9)
 6 GET - Retrieve Updated Booking Data
-
+![Image](https://github.com/user-attachments/assets/71e60250-483d-4902-8fc6-881700ffb8aa)
 7 PATCH - Update a Partial Booking
-
+![Image](https://github.com/user-attachments/assets/a978f14c-09d8-4812-aad5-00b52900b287)
 8 DELETE - Remove a Booking
-
+![Image](https://github.com/user-attachments/assets/9b3306a2-0aee-43ec-9c14-db5a556ae8b3)
 **Testing Approach**
 
 1.  Authentication Testing:
