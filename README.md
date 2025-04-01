@@ -33,7 +33,7 @@ features and is loaded with a bunch of bugs for you to explore.
 ![Image](https://github.com/user-attachments/assets/fec59957-bfc7-4fed-a0fa-aeab89b41ba5)
 4 GET - Retrieve a Single Booking
 ![Image](https://github.com/user-attachments/assets/7eacf746-46c4-4541-a948-d9bee8d4c902)
-5 PUT - Update an Existing Booking
+5 PUT - Update Booking
 ![Image](https://github.com/user-attachments/assets/43863409-e54e-4a87-86bb-c97997f0d2c9)
 6 GET - Retrieve Updated Booking Data
 ![Image](https://github.com/user-attachments/assets/71e60250-483d-4902-8fc6-881700ffb8aa)
