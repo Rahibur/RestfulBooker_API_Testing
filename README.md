@@ -1,5 +1,5 @@
 # **API Testing**
-
+![Image](https://github.com/user-attachments/assets/cbf74dc0-d2fd-4715-9240-fea0265fcfb3)
 ### Project name: RestfulBooker
 ([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))
 
