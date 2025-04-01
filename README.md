@@ -24,11 +24,11 @@ features and is loaded with a bunch of bugs for you to explore.
   -----------------------------------------------------------------------
   ![](./image1.png)
   -----------------------------------------------------------------------
-
+  
   -----------------------------------------------------------------------
 
 2 GET - Retrieve All Bookings
-
+![Image](https://github.com/user-attachments/assets/3d7789bc-e2aa-406d-bdcc-dcf12d7c9dc0)
 3 POST - Create a Booking
 
 4 GET - Retrieve a Single Booking
