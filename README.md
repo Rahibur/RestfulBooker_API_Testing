@@ -3,11 +3,11 @@
 ### Project name: RestfulBooker
 ([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))
 
-### Test Summary Link: [cLICK hERE TO vIEW \*\*](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)
+### Test Summary Link: [cLICK hERE TO vIEW ](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)
 
 For further information, feel free to contact me:
 Website: [www.rahiburrahman.com](http://www.rahiburrahman.com/) LinkedIn: [Rahibur
-Rahman\*\*](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)
+Rahman](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)
 
 ## **Overview**
 
