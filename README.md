@@ -1,23 +1,23 @@
-**API Testing**
+# **API Testing**
 
-**Project name: RestfulBooker
+### **Project name: RestfulBooker
 ([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))**
 
-**Test Summary Link: [Click here to
+### **Test Summary Link: [Click here to
 view\*\*](https://sites.google.com/view/rahibur-rahman/projects)**
 
 **For further information, feel free to contact me:
 Website: [www.rahiburrahman.com](http://www.rahiburrahman.com/) LinkedIn: [Rahibur
 Rahman\*\*](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)**
 
-**Overview**
+## **Overview**
 
 Restful-booker is an API that you can use to learn more about API
 Testing or try out API testing tools against. Restful-booker is a Create
 Read Update Delete (CRUD) Web API that comes with authentication
 features and is loaded with a bunch of bugs for you to explore.
 
-**API Endpoints Tested**
+## **API Endpoints Tested**
 
 1 POST - Create Authentication Token
 
@@ -55,7 +55,7 @@ features and is loaded with a bunch of bugs for you to explore.
 ![Image](https://github.com/user-attachments/assets/9b3306a2-0aee-43ec-9c14-db5a556ae8b3)
 
 -----------------------------------------------------------------------
-**Testing Approach**
+## **Testing Approach**
 
 1.  Authentication Testing:
 
@@ -81,7 +81,7 @@ features and is loaded with a bunch of bugs for you to explore.
     -   Investigated how the API responds to invalid requests or
         incorrect authentication.
 
-**Test Results & Observations**
+## **Test Results & Observations**
 
 -   Success Rate: Most CRUD operations were functional, but some
     inconsistencies were found in error handling for incorrect data
