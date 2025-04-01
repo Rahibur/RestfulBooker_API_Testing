@@ -1,0 +1,96 @@
+**API Testing**
+
+**Project name: RestfulBooker
+([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))**
+
+**Test Summary Link: [Click here to
+view\*\*](https://sites.google.com/view/rahibur-rahman/projects)**
+
+**For further information, feel free to contact me:
+Website: [www.rahiburrahman.com](http://www.rahiburrahman.com/) LinkedIn: [Rahibur
+Rahman\*\*](https://www.linkedin.com/in/rahibur-rahman-2158a4241/)**
+
+**Overview**
+
+Restful-booker is an API that you can use to learn more about API
+Testing or try out API testing tools against. Restful-booker is a Create
+Read Update Delete (CRUD) Web API that comes with authentication
+features and is loaded with a bunch of bugs for you to explore.
+
+**API Endpoints Tested**
+
+1 POST - Create Authentication Token
+
+  -----------------------------------------------------------------------
+  ![](./image1.png){width="7.125in" height="2.86875in"}
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+2 GET - Retrieve All Bookings
+
+3 POST - Create a Booking
+
+4 GET - Retrieve a Single Booking
+
+5 PUT - Update an Existing Booking
+
+6 GET - Retrieve Updated Booking Data
+
+7 PATCH - Update a Partial Booking
+
+8 DELETE - Remove a Booking
+
+**Testing Approach**
+
+1.  Authentication Testing:
+
+    -   Verified if the API generates a valid authentication token for
+        authorized access.
+
+2.  CRUD Operations Testing:
+
+    -   Ensured that new bookings could be created, retrieved, updated,
+        and deleted correctly.
+
+3.  Data Validation:
+
+    -   Checked whether invalid data inputs were handled properly,
+        including error responses.
+
+4.  Response Time & Performance:
+
+    -   Measured API response times to ensure efficient processing.
+
+5.  Error Handling & Bug Exploration:
+
+    -   Investigated how the API responds to invalid requests or
+        incorrect authentication.
+
+**Test Results & Observations**
+
+-   Success Rate: Most CRUD operations were functional, but some
+    inconsistencies were found in error handling for incorrect data
+    inputs.
+
+-   Authentication Issues: The authentication token was required for
+    some requests but was not always validated correctly.
+
+-   Data Consistency: Updating a booking worked correctly, but
+    retrieving updated data had minor inconsistencies.
+
+-   Bugs Identified:
+
+    -   Some endpoints returned unexpected responses when provided with
+        missing or invalid data.
+
+    -   Partial updates via PATCH did not always reflect changes
+        immediately.
+
+**Conclusion**
+
+The RestfulBooker API is a great tool for practicing API testing and
+learning about various testing techniques. While it mostly functions as
+expected, it contains built-in bugs that allow testers to explore
+different failure scenarios. Further improvements in error handling and
+data consistency would enhance its reliability.
